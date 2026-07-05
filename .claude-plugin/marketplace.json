@@ -1,0 +1,30 @@
+{
+  "name": "my-skill",
+  "id": "my-skill",
+  "owner": {
+    "name": "Eric-l-y"
+  },
+  "metadata": {
+    "description": "我的 Claude Code 个人技能库，包含日常开发中积累的经验和最佳实践",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "my-claude-skills",
+      "source": "./",
+      "description": "代码审查检查清单和 Git 提交信息规范等实用技能",
+      "version": "1.0.0",
+      "author": {
+        "name": "Eric-l-y"
+      },
+      "keywords": [
+        "code-review",
+        "git",
+        "commit",
+        "best-practices",
+        "checklist"
+      ],
+      "category": "workflow"
+    }
+  ]
+}
