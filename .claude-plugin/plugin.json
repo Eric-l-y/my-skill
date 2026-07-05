@@ -1,0 +1,10 @@
+{
+  "name": "my-claude-skills",
+  "version": "1.0.0",
+  "description": "我的 Claude Code 经验技能集",
+  "author": {
+    "name": "Eric-l-y"
+  },
+  "skills": ["./skills/"],
+  "commands": ["./commands/"]
+}
