@@ -16,7 +16,8 @@
     "source": "github",
     "repo": "Eric-l-y/my-skill"
   },
-  "installLocation": "C:\\Users\\你的用户名\\.claude\\plugins\\marketplaces\\my-skill"
+  "installLocation": "C:\\Users\\你的用户名\\.claude\\plugins\\marketplaces\\my-skill",
+  "lastUpdated": "2026-07-06T09:00:00.000Z"
 }
 ```
 
