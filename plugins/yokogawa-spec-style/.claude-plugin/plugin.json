@@ -1,0 +1,8 @@
+{
+  "name": "yokogawa-spec-style",
+  "version": "1.0.0",
+  "description": "横河电机产品规格书风格的 Word 文档排版规范，适用于工业产品技术文档、规格书、产品手册等专业排版",
+  "author": {
+    "name": "Eric-l-y"
+  }
+}

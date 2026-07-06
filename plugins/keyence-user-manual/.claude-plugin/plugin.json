@@ -1,0 +1,8 @@
+{
+  "name": "keyence-user-manual",
+  "version": "1.0.0",
+  "description": "基恩士用户手册风格的 Word 文档排版规范，适用于产品使用说明书、操作手册、维护指南等技术文档",
+  "author": {
+    "name": "Eric-l-y"
+  }
+}

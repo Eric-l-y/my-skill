@@ -5,26 +5,54 @@
     "name": "Eric-l-y"
   },
   "metadata": {
-    "description": "我的 Claude Code 个人技能库，包含日常开发中积累的经验和最佳实践",
+    "description": "我的 Claude Code 个人技能库",
     "version": "1.0.0"
   },
   "plugins": [
     {
-      "name": "my-claude-skills",
-      "source": "./",
-      "description": "代码审查检查清单和 Git 提交信息规范等实用技能",
+      "name": "keyence-user-manual",
+      "source": "./plugins/keyence-user-manual",
+      "description": "基恩士用户手册风格的 Word 文档排版规范，适用于产品使用说明书、操作手册、维护指南等技术文档",
       "version": "1.0.0",
       "author": {
         "name": "Eric-l-y"
-      },
-      "keywords": [
-        "code-review",
-        "git",
-        "commit",
-        "best-practices",
-        "checklist"
-      ],
-      "category": "workflow"
+      }
+    },
+    {
+      "name": "keyence-installation-manual",
+      "source": "./plugins/keyence-installation-manual",
+      "description": "基恩士安装手册风格的 Word 文档排版规范，适用于设备连接指南、系统配置手册、通讯设置手册等安装类技术文档",
+      "version": "1.0.0",
+      "author": {
+        "name": "Eric-l-y"
+      }
+    },
+    {
+      "name": "yokogawa-spec-style",
+      "source": "./plugins/yokogawa-spec-style",
+      "description": "横河电机产品规格书风格的 Word 文档排版规范，适用于工业产品技术文档、规格书、产品手册等专业排版",
+      "version": "1.0.0",
+      "author": {
+        "name": "Eric-l-y"
+      }
+    },
+    {
+      "name": "code-review-checklist",
+      "source": "./plugins/code-review-checklist",
+      "description": "代码审查检查清单，对当前 diff 进行系统化审查",
+      "version": "1.0.0",
+      "author": {
+        "name": "Eric-l-y"
+      }
+    },
+    {
+      "name": "git-commit-style",
+      "source": "./plugins/git-commit-style",
+      "description": "Git 提交信息规范，生成符合 Conventional Commits 规范的 commit message",
+      "version": "1.0.0",
+      "author": {
+        "name": "Eric-l-y"
+      }
     }
   ]
 }

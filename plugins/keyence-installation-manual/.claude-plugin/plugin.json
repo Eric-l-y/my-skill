@@ -1,0 +1,8 @@
+{
+  "name": "keyence-installation-manual",
+  "version": "1.0.0",
+  "description": "基恩士安装手册风格的 Word 文档排版规范，适用于设备连接指南、系统配置手册、通讯设置手册等安装类技术文档",
+  "author": {
+    "name": "Eric-l-y"
+  }
+}

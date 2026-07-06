@@ -1,0 +1,8 @@
+{
+  "name": "code-review-checklist",
+  "version": "1.0.0",
+  "description": "代码审查检查清单，对当前 diff 进行系统化审查",
+  "author": {
+    "name": "Eric-l-y"
+  }
+}
