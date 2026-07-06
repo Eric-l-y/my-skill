@@ -1,7 +1,6 @@
 ---
 name: git-commit-style
 description: Git 提交信息规范。当用户说"commit"、"提交"、"提交代码"时触发，生成规范的 commit message。
-disable-model-invocation: true
 argument-hint: "[scope]"
 ---
 

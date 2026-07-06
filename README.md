@@ -33,11 +33,13 @@ claude plugin install my-claude-skills@my-skill
 
 ## 更新
 
-当 GitHub 仓库有新版本时，在任意已安装的电脑上运行：
+GitHub 仓库有新版本时，重新执行 install 命令即可自动更新：
 
 ```bash
-claude plugin update my-claude-skills
+claude plugin install my-claude-skills@my-skill
 ```
+
+> 本地需要先手动同步 marketplace 目录（`~/.claude/plugins/marketplaces/my-skill/`），因为 Claude Code 不会自动从 GitHub 拉取自定义 marketplace 的更新。
 
 ---
 

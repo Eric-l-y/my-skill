@@ -1,7 +1,6 @@
 ---
 name: code-review-checklist
 description: 代码审查检查清单。当用户说"review"、"审查"、"检查代码"时触发，对当前 diff 进行系统化审查。
-disable-model-invocation: true
 argument-hint: "[file-path]"
 ---
 
